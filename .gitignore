@@ -1,0 +1,11 @@
+# Secrets — never commit these
+.env
+config/.env
+*.pem
+credentials.json
+
+# Conda / Python
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
