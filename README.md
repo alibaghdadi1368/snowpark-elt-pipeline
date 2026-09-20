@@ -73,5 +73,5 @@ are an easy way to accidentally burn credits. See `sql/02_monitoring/` and
 
 ## 📬 Contact
 
-**Ali Baghdadi**:  [LinkedIn](https://linkedin.com/in/alibaghdadi)
+**Ali Baghdadi** : [LinkedIn](https://linkedin.com/in/alibaghdadi)  
 alibaghdadi1368@gmail.com
